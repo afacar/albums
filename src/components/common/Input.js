@@ -1,3 +1,4 @@
+// import libs
 import React from 'react';
 import { TextInput, View, Text, StyleSheet } from 'react-native';
 
